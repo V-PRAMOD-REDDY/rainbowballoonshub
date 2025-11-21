@@ -500,7 +500,14 @@ footer {
   section.page { padding: 2.3rem 1rem; }
   section.page::before { inset: 0.3rem; border-radius: 26px; }
 
+  
+
   /* MOBILE NAVIGATION */
+
+    .nav-whatsapp {
+    display: none !important;
+  }
+
   .nav {
     position: relative;
   }
